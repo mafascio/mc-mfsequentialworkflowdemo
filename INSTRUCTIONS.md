@@ -65,3 +65,6 @@ Check out [Azure AI Projects client library for Python](https://github.com/Azure
 ## Troubleshooting
 
 - If you are instantiating your client via endpoint on an Azure AI Foundry project, ensure the endpoint is set in the `run_agent` script as `https://{your-foundry-resource-name}.services.ai.azure.com/api/projects/{your-foundry-project-name}`
+
+
+
