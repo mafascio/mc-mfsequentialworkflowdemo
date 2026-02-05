@@ -1,4 +1,6 @@
 # Microsoft Foundry Workflows
+![Microsoft Foundry Workflows](SeqWorkflowImg.png)
+
 
 
 Learn how to create Microsoft Foundry Workflows in this 4-part series.
