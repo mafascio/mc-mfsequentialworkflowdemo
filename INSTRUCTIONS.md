@@ -1,3 +1,4 @@
+## mc - MF Sequential Workflow Agent - Demo
 # VS Code for the Web - Azure AI Foundry
 
 We've generated a simple development environment for you to play with sample code to create and run the agent that you built in the Azure AI Foundry playground.
